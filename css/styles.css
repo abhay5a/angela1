@@ -112,7 +112,7 @@
     #title img{
         position: static;
         transform:rotate(0);
-        width:80%;
+        height:80%;
     }
 }
 #cta h3{
